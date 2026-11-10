@@ -1,0 +1,8 @@
+{
+  "name": "Remix Noche de Concierto: Diálogos con Mateo",
+  "description": "Интерактивная визуальная новелла и тренажёр разговорного испанского языка с Матео из Эквадора на концерте русских народных инструментов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
